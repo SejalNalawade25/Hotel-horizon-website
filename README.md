@@ -13,8 +13,13 @@ Now run following command in terminal:
 After installation completes, you can start
 # npm run dev
 Open http://localhost:5173/ in browser 
+
 Download the following package in terminal
 # npm install react-scroll
+
+For Components/Contact/Contact.jsx
+Tou need to create your access key on https://web3forms.com/
+Then paste the access key you get it from the above website in "YOUR_ACCSSES_KEY"
 
 
 Currently, two official plugins are available:
